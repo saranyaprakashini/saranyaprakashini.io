@@ -1,4 +1,4 @@
-# saranyaprakashini.io<h3 align="center">Hi. I am Navina - A passionate Data Science Intern from India</h3>
+# saranyaprakashini.io<h3 align="center">Hi. I am Saranya - Web Developer</h3>
 
 - 🌱 I’m currently Practising **WEB DEVELOPMENT**
 
